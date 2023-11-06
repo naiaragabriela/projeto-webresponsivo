@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(255, 255, 130);
+}
+
+h1 {
+    font-family: Impact;
+    color: firebrick;
+}
+
+h2 {
+    color: #01AB3F;
+    font-size: 36px;
+}
+
+strong {
+    color: red;
+}
+
+a:hover {
+    text-decoration: none;
+    color: gray;
+}

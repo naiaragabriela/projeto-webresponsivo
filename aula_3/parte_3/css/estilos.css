@@ -1,0 +1,17 @@
+.primeiraClasse {
+    background-color: lightblue;
+    border-style: dashed;
+    border-color: red;
+}
+
+#primeiroID {
+    background-color: pink;
+    border-style: double;
+    border-color: purple;
+}
+
+p.segundaClasse {
+    background-color: green;
+    border-style: dotted;
+    border-color: black;
+}

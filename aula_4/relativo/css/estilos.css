@@ -1,0 +1,29 @@
+body {
+    background: rgb(200, 245, 190);
+}
+
+.conteudo {
+    background: white;
+    font-size: 24px;
+    width: 900px;
+    margin: 30px auto; /* auto = centralizar a margem direita e esquerda*/
+    padding: 8px;
+}
+
+h1 {
+    position: static;
+}
+
+p {
+    width: 300px;
+    position: static;
+}
+
+.relativos {
+    border: 2px dotted blue;
+    position: relative;
+    top: -50px;
+    left: 500px;
+}
+
+/* o posicionamento RELATIVO permite que o elemento seja afastado(deslocado) de sua posição original de renderização */

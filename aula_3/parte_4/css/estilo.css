@@ -1,0 +1,24 @@
+#corpo { 
+    border: 5px dotted red;
+    background: lightpink;
+}
+
+.bloco {
+    background: lightsalmon;
+    border: 1px solid gray;
+    height: 250px;
+    width: 250px;
+    text-align: center;
+    line-height: 250px;
+    float: left;
+}
+
+.bloco2 {
+    background: lightsalmon;
+    border: 1px solid gray;
+    height: 250px;
+    width: 250px;
+    text-align: center;
+    line-height: 250px;
+    float: right;
+}
